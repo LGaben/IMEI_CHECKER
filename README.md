@@ -6,7 +6,7 @@
 Клонируйте репозиторий и перейдите в него в командной строке:
 
 ```bash
-git clone git@github.com:LGaben/Megamarket-Parser.git
+git clone git@github.com:LGaben/IMEI_CHECKER.git
 ```
 
 
